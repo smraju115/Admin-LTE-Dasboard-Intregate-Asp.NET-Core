@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminLTEIntregate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminLTEIntregate.nklif3i0in.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\AdminLTEFullLogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\AdminLTEFullLogo.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\icons.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\assets\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.rtl.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\adminlte.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminLTEIntregate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminLTEIntregate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminLTEIntregate.props",
+      "PackagePath": "build\\AdminLTEIntregate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminLTEIntregate.props",
+      "PackagePath": "buildMultiTargeting\\AdminLTEIntregate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminLTEIntregate.props",
+      "PackagePath": "buildTransitive\\AdminLTEIntregate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Raju\\AdminLTEIntregate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\pages\\docs\\color-mode.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\pages\\docs\\color-mode.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\shared\\_topnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\shared\\_topnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\pages\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\pages\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|d:\\raju\\adminlteintregate\\adminlteintregate\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9C4203-1140-4043-B090-073BB222926F}|AdminLTEIntregate\\AdminLTEIntregate.csproj|solutionrelative:adminlteintregate\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwD8AAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:34:02.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index2.html",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\pages\\index2.html",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\pages\\index2.html",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\pages\\index2.html",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\pages\\index2.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-18T04:33:56.865Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "color-mode.html",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\pages\\docs\\color-mode.html",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\pages\\docs\\color-mode.html",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\pages\\docs\\color-mode.html",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\pages\\docs\\color-mode.html",
+              "ViewState": "AgIAADQEAAAAAAAAAAAAAEMEAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-18T05:06:37.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TopNavbar.cshtml",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_TopNavbar.cshtml",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\Shared\\_TopNavbar.cshtml",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_TopNavbar.cshtml",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\Shared\\_TopNavbar.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T05:01:19.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:52:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:51:34.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "AdminLTEIntregate\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\Raju\\AdminLTEIntregate\\AdminLTEIntregate\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "AdminLTEIntregate\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAIwLwBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:49:48.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
